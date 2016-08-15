@@ -1,0 +1,6 @@
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\HelloWorld\HelloWorld2\HelloWorld2\bin\Debug\HelloWorld2.exe.config
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\HelloWorld\HelloWorld2\HelloWorld2\bin\Debug\HelloWorld2.exe
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\HelloWorld\HelloWorld2\HelloWorld2\bin\Debug\HelloWorld2.pdb
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\HelloWorld\HelloWorld2\HelloWorld2\obj\Debug\HelloWorld2.csprojResolveAssemblyReference.cache
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\HelloWorld\HelloWorld2\HelloWorld2\obj\Debug\HelloWorld2.exe
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\HelloWorld\HelloWorld2\HelloWorld2\obj\Debug\HelloWorld2.pdb

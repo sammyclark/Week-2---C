@@ -1,0 +1,6 @@
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\HelloWorld\SelectionStructures\SelectionStructures\bin\Debug\SelectionStructures.exe.config
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\HelloWorld\SelectionStructures\SelectionStructures\obj\Debug\SelectionStructures.csprojResolveAssemblyReference.cache
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\HelloWorld\SelectionStructures\SelectionStructures\bin\Debug\SelectionStructures.exe
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\HelloWorld\SelectionStructures\SelectionStructures\bin\Debug\SelectionStructures.pdb
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\HelloWorld\SelectionStructures\SelectionStructures\obj\Debug\SelectionStructures.exe
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\HelloWorld\SelectionStructures\SelectionStructures\obj\Debug\SelectionStructures.pdb

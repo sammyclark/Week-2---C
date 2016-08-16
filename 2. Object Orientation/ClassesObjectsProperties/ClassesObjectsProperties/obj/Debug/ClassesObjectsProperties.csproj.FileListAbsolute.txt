@@ -1,0 +1,6 @@
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\2. Object Orientation\ClassesObjectsProperties\ClassesObjectsProperties\bin\Debug\ClassesObjectsProperties.exe.config
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\2. Object Orientation\ClassesObjectsProperties\ClassesObjectsProperties\bin\Debug\ClassesObjectsProperties.exe
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\2. Object Orientation\ClassesObjectsProperties\ClassesObjectsProperties\bin\Debug\ClassesObjectsProperties.pdb
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\2. Object Orientation\ClassesObjectsProperties\ClassesObjectsProperties\obj\Debug\ClassesObjectsProperties.csprojResolveAssemblyReference.cache
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\2. Object Orientation\ClassesObjectsProperties\ClassesObjectsProperties\obj\Debug\ClassesObjectsProperties.exe
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\2. Object Orientation\ClassesObjectsProperties\ClassesObjectsProperties\obj\Debug\ClassesObjectsProperties.pdb

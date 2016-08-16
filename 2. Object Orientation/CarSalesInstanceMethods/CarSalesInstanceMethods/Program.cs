@@ -11,7 +11,7 @@ namespace CarSalesInstanceMethods
         public string name;
         public string model;
         public int price;
-        public Boolean sold;
+        public bool sold;
         public int sellPrice;
 
         public static int carsSold;
@@ -22,7 +22,7 @@ namespace CarSalesInstanceMethods
             this.name = name;
             this.model = model;
             this.price = price;
-            this.sold = false;
+            this.sold = false; 
             Car.carNo++;
 
         }
@@ -40,6 +40,11 @@ namespace CarSalesInstanceMethods
         {
             int valueSold = 0;
             int valueIn = 0; 
+
+            foreach (Car item in allCars)
+
+         //FINISH THIS
+
         }
     }
 
@@ -79,7 +84,7 @@ namespace CarSalesInstanceMethods
             car4.addCar("Honda", "Civic", 10000);
             car4.sellCar(true, 9500);
 
-            //instantiate 3 objects into class Car
+            //instantiate objects into class Car
 
             Console.WriteLine("Cars in stock: {0}. Number of cars sold: {1}", Car.carNo, Car.carsSold);
 
@@ -89,6 +94,7 @@ namespace CarSalesInstanceMethods
             Console.WriteLine("Car 4 is a {0} {1} priced at £{2}. {3}", car4.name, car4.model, car4.price);
             Console.WriteLine("Sold for: " + car4.sellPrice); 
 
+            //displays cars in stock, cars sold and values of cars
 
     }
     }

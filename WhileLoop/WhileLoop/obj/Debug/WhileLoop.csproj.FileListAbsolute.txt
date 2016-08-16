@@ -1,0 +1,6 @@
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\HelloWorld\WhileLoop\WhileLoop\bin\Debug\WhileLoop.exe.config
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\HelloWorld\WhileLoop\WhileLoop\bin\Debug\WhileLoop.exe
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\HelloWorld\WhileLoop\WhileLoop\bin\Debug\WhileLoop.pdb
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\HelloWorld\WhileLoop\WhileLoop\obj\Debug\WhileLoop.csprojResolveAssemblyReference.cache
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\HelloWorld\WhileLoop\WhileLoop\obj\Debug\WhileLoop.exe
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\HelloWorld\WhileLoop\WhileLoop\obj\Debug\WhileLoop.pdb

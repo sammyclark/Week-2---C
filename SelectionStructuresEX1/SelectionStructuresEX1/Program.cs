@@ -20,7 +20,7 @@ namespace SelectionStructuresEX1
                      num = Convert.ToInt32(Console.ReadLine());
                 }
 
-                while (response != num);
+                while (num != randNo);
                 Console.WriteLine("Well done, you are correct");
         }
     }

@@ -4,3 +4,6 @@ C:\Users\student\Sarah Clark\GitHub\Week 2 - C\HelloWorld\SwitchStatements\Switc
 C:\Users\student\Sarah Clark\GitHub\Week 2 - C\HelloWorld\SwitchStatements\SwitchStatements\bin\Debug\SwitchStatements.pdb
 C:\Users\student\Sarah Clark\GitHub\Week 2 - C\HelloWorld\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.exe
 C:\Users\student\Sarah Clark\GitHub\Week 2 - C\HelloWorld\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.pdb
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\SwitchStatements\SwitchStatements\bin\Debug\SwitchStatements.exe.config
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.exe
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.pdb

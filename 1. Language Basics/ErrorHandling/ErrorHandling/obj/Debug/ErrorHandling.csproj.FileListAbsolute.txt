@@ -1,0 +1,6 @@
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\ErrorHandling\ErrorHandling\bin\Debug\ErrorHandling.exe.config
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\ErrorHandling\ErrorHandling\bin\Debug\ErrorHandling.exe
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\ErrorHandling\ErrorHandling\bin\Debug\ErrorHandling.pdb
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.csprojResolveAssemblyReference.cache
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.exe
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.pdb

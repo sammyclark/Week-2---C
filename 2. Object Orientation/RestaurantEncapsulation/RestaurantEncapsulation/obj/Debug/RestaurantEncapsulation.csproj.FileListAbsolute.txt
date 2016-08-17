@@ -1,0 +1,6 @@
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\2. Object Orientation\RestaurantEncapsulation\RestaurantEncapsulation\bin\Debug\RestaurantEncapsulation.exe.config
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\2. Object Orientation\RestaurantEncapsulation\RestaurantEncapsulation\bin\Debug\RestaurantEncapsulation.exe
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\2. Object Orientation\RestaurantEncapsulation\RestaurantEncapsulation\bin\Debug\RestaurantEncapsulation.pdb
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\2. Object Orientation\RestaurantEncapsulation\RestaurantEncapsulation\obj\Debug\RestaurantEncapsulation.csprojResolveAssemblyReference.cache
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\2. Object Orientation\RestaurantEncapsulation\RestaurantEncapsulation\obj\Debug\RestaurantEncapsulation.exe
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\2. Object Orientation\RestaurantEncapsulation\RestaurantEncapsulation\obj\Debug\RestaurantEncapsulation.pdb

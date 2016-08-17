@@ -10,8 +10,12 @@ namespace Polymorphism
     {
         public virtual void
             {
-               Console.WriteLine(); 
+               Console.WriteLine("This is a car"); 
             }
+    }
+    class threeWheel
+    {
+        
     }
     class Program
     {

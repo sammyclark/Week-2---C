@@ -1,0 +1,6 @@
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\2. Object Orientation\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\2. Object Orientation\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\2. Object Orientation\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\2. Object Orientation\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\2. Object Orientation\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\2. Object Orientation\Inheritance\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache

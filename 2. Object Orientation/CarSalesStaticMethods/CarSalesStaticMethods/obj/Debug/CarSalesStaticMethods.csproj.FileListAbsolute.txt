@@ -1,0 +1,6 @@
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\2. Object Orientation\CarSalesStaticMethods\CarSalesStaticMethods\bin\Debug\CarSalesStaticMethods.exe.config
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\2. Object Orientation\CarSalesStaticMethods\CarSalesStaticMethods\bin\Debug\CarSalesStaticMethods.exe
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\2. Object Orientation\CarSalesStaticMethods\CarSalesStaticMethods\bin\Debug\CarSalesStaticMethods.pdb
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\2. Object Orientation\CarSalesStaticMethods\CarSalesStaticMethods\obj\Debug\CarSalesStaticMethods.exe
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\2. Object Orientation\CarSalesStaticMethods\CarSalesStaticMethods\obj\Debug\CarSalesStaticMethods.pdb
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\2. Object Orientation\CarSalesStaticMethods\CarSalesStaticMethods\obj\Debug\CarSalesStaticMethods.csprojResolveAssemblyReference.cache

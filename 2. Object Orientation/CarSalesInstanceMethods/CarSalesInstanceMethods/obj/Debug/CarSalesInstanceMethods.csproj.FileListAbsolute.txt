@@ -3,3 +3,4 @@ C:\Users\student\Sarah Clark\GitHub\Week 2 - C\2. Object Orientation\CarSalesIns
 C:\Users\student\Sarah Clark\GitHub\Week 2 - C\2. Object Orientation\CarSalesInstanceMethods\CarSalesInstanceMethods\bin\Debug\CarSalesInstanceMethods.pdb
 C:\Users\student\Sarah Clark\GitHub\Week 2 - C\2. Object Orientation\CarSalesInstanceMethods\CarSalesInstanceMethods\obj\Debug\CarSalesInstanceMethods.exe
 C:\Users\student\Sarah Clark\GitHub\Week 2 - C\2. Object Orientation\CarSalesInstanceMethods\CarSalesInstanceMethods\obj\Debug\CarSalesInstanceMethods.pdb
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\2. Object Orientation\CarSalesInstanceMethods\CarSalesInstanceMethods\obj\Debug\CarSalesInstanceMethods.csprojResolveAssemblyReference.cache

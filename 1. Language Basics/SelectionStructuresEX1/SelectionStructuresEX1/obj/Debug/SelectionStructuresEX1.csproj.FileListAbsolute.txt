@@ -6,3 +6,6 @@ C:\Users\student\Sarah Clark\GitHub\Week 2 - C\HelloWorld\SelectionStructuresEX1
 C:\Users\student\Sarah Clark\GitHub\Week 2 - C\SelectionStructuresEX1\SelectionStructuresEX1\bin\Debug\SelectionStructuresEX1.exe.config
 C:\Users\student\Sarah Clark\GitHub\Week 2 - C\SelectionStructuresEX1\SelectionStructuresEX1\obj\Debug\SelectionStructuresEX1.exe
 C:\Users\student\Sarah Clark\GitHub\Week 2 - C\SelectionStructuresEX1\SelectionStructuresEX1\obj\Debug\SelectionStructuresEX1.pdb
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\1. Language Basics\SelectionStructuresEX1\SelectionStructuresEX1\bin\Debug\SelectionStructuresEX1.exe.config
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\1. Language Basics\SelectionStructuresEX1\SelectionStructuresEX1\obj\Debug\SelectionStructuresEX1.exe
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\1. Language Basics\SelectionStructuresEX1\SelectionStructuresEX1\obj\Debug\SelectionStructuresEX1.pdb

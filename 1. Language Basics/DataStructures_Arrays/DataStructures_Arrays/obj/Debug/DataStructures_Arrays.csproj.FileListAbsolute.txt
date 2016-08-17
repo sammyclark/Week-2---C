@@ -4,3 +4,6 @@ C:\Users\student\Sarah Clark\GitHub\Week 2 - C\DataStructures_Arrays\DataStructu
 C:\Users\student\Sarah Clark\GitHub\Week 2 - C\DataStructures_Arrays\DataStructures_Arrays\obj\Debug\DataStructures_Arrays.exe
 C:\Users\student\Sarah Clark\GitHub\Week 2 - C\DataStructures_Arrays\DataStructures_Arrays\obj\Debug\DataStructures_Arrays.pdb
 C:\Users\student\Sarah Clark\GitHub\Week 2 - C\DataStructures_Arrays\DataStructures_Arrays\obj\Debug\DataStructures_Arrays.csprojResolveAssemblyReference.cache
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\1. Language Basics\DataStructures_Arrays\DataStructures_Arrays\bin\Debug\DataStructures_Arrays.exe.config
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\1. Language Basics\DataStructures_Arrays\DataStructures_Arrays\obj\Debug\DataStructures_Arrays.exe
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\1. Language Basics\DataStructures_Arrays\DataStructures_Arrays\obj\Debug\DataStructures_Arrays.pdb

@@ -42,6 +42,9 @@ namespace CarSalesInstanceMethods
             int valueIn = 0; 
 
             foreach (Car item in allCars)
+            {
+                Console.WriteLine("Car details: {0} {1} priced at £{2}. {3}", item.name, item.model, item.price);
+            }
 
          //FINISH THIS
 
@@ -77,7 +80,7 @@ namespace CarSalesInstanceMethods
             car3.name = "Land Rover";
             car3.model = "Vogue";
             car3.price = 50000;
-            car3.sold = false;
+            car3.sold = true;
             Car.carNo++;
 
             Car car4 = new Car();
@@ -88,11 +91,11 @@ namespace CarSalesInstanceMethods
 
             Console.WriteLine("Cars in stock: {0}. Number of cars sold: {1}", Car.carNo, Car.carsSold);
 
-            Console.WriteLine("Car 1 is a {0} {1} priced at £{2}. {3}", car1.name, car1.model, car1.price);
-            Console.WriteLine("Car 2 is a {0} {1} priced at £{2}. {3}", car2.name, car2.model, car2.price);
-            Console.WriteLine("Car 3 is a {0} {1} priced at £{2}. {3}", car3.name, car3.model, car3.price);
-            Console.WriteLine("Car 4 is a {0} {1} priced at £{2}. {3}", car4.name, car4.model, car4.price);
-            Console.WriteLine("Sold for: " + car4.sellPrice); 
+            //Console.WriteLine("Car 1 is a {0} {1} priced at £{2}. {3}", car1.name, car1.model, car1.price);
+            //Console.WriteLine("Car 2 is a {0} {1} priced at £{2}. {3}", car2.name, car2.model, car2.price);
+            //Console.WriteLine("Car 3 is a {0} {1} priced at £{2}. {3}", car3.name, car3.model, car3.price);
+            //Console.WriteLine("Car 4 is a {0} {1} priced at £{2}. {3}", car4.name, car4.model, car4.price);
+            //Console.WriteLine("Sold for: " + car4.sellPrice); 
 
             //displays cars in stock, cars sold and values of cars
 

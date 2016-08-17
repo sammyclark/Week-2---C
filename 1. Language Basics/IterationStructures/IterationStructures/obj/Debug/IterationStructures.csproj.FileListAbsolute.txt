@@ -7,3 +7,6 @@ C:\Users\student\Sarah Clark\GitHub\Week 2 - C\HelloWorld\IterationStructures\It
 C:\Users\student\Sarah Clark\GitHub\Week 2 - C\IterationStructures\IterationStructures\bin\Debug\IterationStructures.exe.config
 C:\Users\student\Sarah Clark\GitHub\Week 2 - C\IterationStructures\IterationStructures\obj\Debug\IterationStructures.exe
 C:\Users\student\Sarah Clark\GitHub\Week 2 - C\IterationStructures\IterationStructures\obj\Debug\IterationStructures.pdb
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\1. Language Basics\IterationStructures\IterationStructures\bin\Debug\IterationStructures.exe.config
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\1. Language Basics\IterationStructures\IterationStructures\obj\Debug\IterationStructures.exe
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\1. Language Basics\IterationStructures\IterationStructures\obj\Debug\IterationStructures.pdb

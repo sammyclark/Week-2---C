@@ -1,0 +1,9 @@
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\DemoQuiz\DemoQuiz\bin\Debug\DemoQuiz.exe.config
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\DemoQuiz\DemoQuiz\bin\Debug\DemoQuiz.exe
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\DemoQuiz\DemoQuiz\bin\Debug\DemoQuiz.pdb
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\DemoQuiz\DemoQuiz\obj\Debug\DemoQuiz.csprojResolveAssemblyReference.cache
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\DemoQuiz\DemoQuiz\obj\Debug\DemoQuiz.Form1.resources
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\DemoQuiz\DemoQuiz\obj\Debug\DemoQuiz.Properties.Resources.resources
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\DemoQuiz\DemoQuiz\obj\Debug\DemoQuiz.csproj.GenerateResource.Cache
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\DemoQuiz\DemoQuiz\obj\Debug\DemoQuiz.exe
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\DemoQuiz\DemoQuiz\obj\Debug\DemoQuiz.pdb

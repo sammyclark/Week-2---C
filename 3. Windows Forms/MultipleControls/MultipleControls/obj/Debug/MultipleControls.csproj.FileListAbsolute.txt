@@ -1,0 +1,9 @@
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\MultipleControls\MultipleControls\bin\Debug\MultipleControls.exe.config
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\MultipleControls\MultipleControls\bin\Debug\MultipleControls.exe
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\MultipleControls\MultipleControls\bin\Debug\MultipleControls.pdb
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\MultipleControls\MultipleControls\obj\Debug\MultipleControls.csprojResolveAssemblyReference.cache
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\MultipleControls\MultipleControls\obj\Debug\MultipleControls.Form1.resources
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\MultipleControls\MultipleControls\obj\Debug\MultipleControls.Properties.Resources.resources
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\MultipleControls\MultipleControls\obj\Debug\MultipleControls.csproj.GenerateResource.Cache
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\MultipleControls\MultipleControls\obj\Debug\MultipleControls.exe
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\MultipleControls\MultipleControls\obj\Debug\MultipleControls.pdb

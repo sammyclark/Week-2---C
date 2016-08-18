@@ -40,5 +40,10 @@ namespace Demo1
             //assemble message
             label3.Text = "Hello, " + name + "! You will be " + (years + 1) + " years old on " + day + " " + month + ".";
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

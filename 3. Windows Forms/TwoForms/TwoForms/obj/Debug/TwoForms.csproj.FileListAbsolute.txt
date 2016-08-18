@@ -1,0 +1,10 @@
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\TwoForms\TwoForms\bin\Debug\TwoForms.exe.config
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\TwoForms\TwoForms\bin\Debug\TwoForms.exe
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\TwoForms\TwoForms\bin\Debug\TwoForms.pdb
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\TwoForms\TwoForms\obj\Debug\TwoForms.csprojResolveAssemblyReference.cache
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\TwoForms\TwoForms\obj\Debug\TwoForms.Form1.resources
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\TwoForms\TwoForms\obj\Debug\TwoForms.Properties.Resources.resources
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\TwoForms\TwoForms\obj\Debug\TwoForms.csproj.GenerateResource.Cache
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\TwoForms\TwoForms\obj\Debug\TwoForms.exe
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\TwoForms\TwoForms\obj\Debug\TwoForms.pdb
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\TwoForms\TwoForms\obj\Debug\TwoForms.Form2.resources

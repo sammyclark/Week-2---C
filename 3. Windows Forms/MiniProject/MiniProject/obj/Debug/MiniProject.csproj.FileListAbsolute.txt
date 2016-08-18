@@ -1,0 +1,12 @@
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\MiniProject\MiniProject\bin\Debug\MiniProject.exe.config
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\MiniProject\MiniProject\bin\Debug\MiniProject.exe
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\MiniProject\MiniProject\bin\Debug\MiniProject.pdb
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\MiniProject\MiniProject\obj\Debug\MiniProject.csprojResolveAssemblyReference.cache
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\MiniProject\MiniProject\obj\Debug\MiniProject.Form1.resources
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\MiniProject\MiniProject\obj\Debug\MiniProject.Properties.Resources.resources
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.GenerateResource.Cache
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\MiniProject\MiniProject\obj\Debug\MiniProject.exe
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\MiniProject\MiniProject\obj\Debug\MiniProject.pdb
+\\150-17\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\MiniProject\MiniProject\bin\Debug\MiniProject.exe.config
+\\150-17\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\MiniProject\MiniProject\obj\Debug\MiniProject.exe
+\\150-17\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\MiniProject\MiniProject\obj\Debug\MiniProject.pdb

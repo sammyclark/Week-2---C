@@ -1,0 +1,9 @@
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\Demo1\Demo1\bin\Debug\Demo1.exe.config
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\Demo1\Demo1\bin\Debug\Demo1.exe
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\Demo1\Demo1\bin\Debug\Demo1.pdb
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\Demo1\Demo1\obj\Debug\Demo1.csprojResolveAssemblyReference.cache
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\Demo1\Demo1\obj\Debug\Demo1.Form1.resources
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\Demo1\Demo1\obj\Debug\Demo1.Properties.Resources.resources
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\Demo1\Demo1\obj\Debug\Demo1.csproj.GenerateResource.Cache
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\Demo1\Demo1\obj\Debug\Demo1.exe
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\3. Windows Forms\Demo1\Demo1\obj\Debug\Demo1.pdb

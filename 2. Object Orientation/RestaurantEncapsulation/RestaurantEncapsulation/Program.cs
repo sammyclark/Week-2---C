@@ -13,7 +13,7 @@ namespace RestaurantEncapsulation
         public decimal price;
         public decimal cost;
 
-        public Meal (string name, decimal price, decimal cost)
+        public Meal(string name, decimal price, decimal cost)
         {
             this.name = name;
             this.price = price;
@@ -23,13 +23,10 @@ namespace RestaurantEncapsulation
         public static decimal cookMeal(Meal meal, decimal balance)
         {
             Console.WriteLine("The meal {0} has been cooked.", meal.name);
-            balance = balance + meal.price;
-            balance = balance - meal.cost;
-
-            return balance;
-        }
 
         }
+
+    }
 
     public class Order
     {
@@ -39,18 +36,19 @@ namespace RestaurantEncapsulation
         }
     }
 
-    class Balance
-    {
+    //public class Monies
+    //{
+    //    private static decimal balance = 0;
 
-        decimal balance;
+        //public static void calcBalance
+        //    {
+        //        balance = balance + meal.price;
+        //        balance = balance - meal.cost;
 
-        //    private getBalance
-        //        {
-        //            balance = meal.price - meal.cost;
-        //        }
-
-    }
-
+        //        return balance;
+            //}
+    //}
+   
     class Program
     {
 
@@ -59,9 +57,9 @@ namespace RestaurantEncapsulation
             decimal balance = 0;
 
             //add some meals data
-            Meal steak = new Meal("steak", 20.00M, 5.00M);
-            Meal fajitas = new Meal("fajitas", 12.00M, 2.00M);
-            Meal pumpkinRisotto = new Meal("pumpkinRisotto", 10.00M, 1.00M);
+            Meal steak = new Meal("Steak", 20.00M, 5.00M);
+            Meal fajitas = new Meal("Fajitas", 12.00M, 2.00M);
+            Meal pumpkinRisotto = new Meal("Pumpkin Risotto", 10.00M, 1.00M);
 
             Order order1 = new Order();
             order1.takeOrder(steak);

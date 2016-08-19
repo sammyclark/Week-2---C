@@ -13,7 +13,7 @@ namespace BookAssess
         public int ISBN;
         public decimal price;
 
-        //created variables for book attributes. Used ISBN-10 for ISBN number
+        //created variables for book attributes. Used ISBN-10 for ISBN number as ISBN has a "-" in it
 
         public static int bookNo;
 
@@ -40,6 +40,7 @@ namespace BookAssess
 
             //displays the details of the books
         }
+
     }
     class Program
     {
@@ -65,7 +66,6 @@ namespace BookAssess
                 Console.WriteLine("Press D to delete a book from the catalogue");
                 Console.WriteLine("Press L to list the books in the catalogue");
                 Console.WriteLine("Press X to clear the booklist");            
-                Console.WriteLine("Press F to search for a book in the catalogue");
                 Console.WriteLine("Type Goodbye to exit the catalogue");
 
                 ans = Console.ReadLine().ToLower();
@@ -105,9 +105,11 @@ namespace BookAssess
                     case "x":
                         allBooks.Clear();
                         Book.bookNo = 0;
+                        Console.WriteLine("THE CATALOGUE HAS BEEN RESET");                        
                         break;
+                        
 
-                    //resets the catalogue by deleting all books in it
+                    //resets the catalogue by deleting all books in it - This works
 
                     case "l":
                         Book.displayBooks(allBooks);

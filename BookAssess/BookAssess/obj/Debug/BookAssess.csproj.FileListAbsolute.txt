@@ -1,0 +1,6 @@
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\BookAssess\BookAssess\bin\Debug\BookAssess.exe.config
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\BookAssess\BookAssess\bin\Debug\BookAssess.exe
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\BookAssess\BookAssess\bin\Debug\BookAssess.pdb
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\BookAssess\BookAssess\obj\Debug\BookAssess.csprojResolveAssemblyReference.cache
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\BookAssess\BookAssess\obj\Debug\BookAssess.exe
+C:\Users\student\Sarah Clark\GitHub\Week 2 - C\BookAssess\BookAssess\obj\Debug\BookAssess.pdb
